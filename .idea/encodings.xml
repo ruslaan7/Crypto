@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/RSA/MR.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RSA/crypto.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RSA/euclid.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RSA/generator.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/RSA/main.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Roma/first.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests/Ferma.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests/Leman.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests/SH.py" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Tests/main.py" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>
